@@ -1,2 +1,18 @@
-# steam_data_project
-Steam games data analysis using Python, Pandas, and Jupyter Notebook.
+# Steam Games Data Analysis
+
+## Goal
+Analyze Steam game trends and ratings.
+
+## Tools
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+
+## Questions
+- Most common genres?
+- Relationship between price and ratings?
+- Most successful developers?
+
+## Findings
+...
